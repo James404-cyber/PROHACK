@@ -6,7 +6,7 @@
 
 
 <p align="center">
- ★ONLY PRIVET USE BRO NOT FOR PUBLIC★
+ ★ONLY PRIVET USE BRO NOT★ FOR PUBLIC★
 </p>
 
 <h2 align="center"> MULTI FB CRACKING TOOL </h2>
