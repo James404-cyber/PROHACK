@@ -24,6 +24,7 @@
 ## <b>installation</b>
 
 ```
+$ rm -f license.txt
 $ rm -rf PROHACK
 $ pkg update
 $ pkg upgrade
