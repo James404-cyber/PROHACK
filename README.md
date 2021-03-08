@@ -20,12 +20,13 @@
 <p align="center">
   MULTI TYEP LOGIN FB ACCESS TOKEN AND DIRECT FB LOGIN SAFE CHOICE FB TOKEN
 
+<p align="center">
+  EVERYDAY CLEAR TERMUX DATA
 
 ## <b>installation</b>
 
 ```
-$ WARNING:EVERYDAY CLEAR TERMUX DATA 
- 
+$ termux-setup-storage
 $ rm -f license.txt
 $ rm -rf PROHACK
 $ pkg update
