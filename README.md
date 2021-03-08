@@ -24,8 +24,8 @@
 ## <b>installation</b>
 
 ```
-$ WARNING : EVERYDAY CLEAR TERMUX DATA 
-
+$ WARNING:EVERYDAY CLEAR TERMUX DATA 
+ 
 $ rm -f license.txt
 $ rm -rf PROHACK
 $ pkg update
