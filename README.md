@@ -41,7 +41,7 @@ $ pip2 install bs4
 $ pkg install git
 $ git clone https://github.com/James404-cyber/PROHACK.git
 $ cd PROHACK
-$ python2 hackpro.py
+$ python hackpro.py
 $ FREE API KEY : [Mnbvcxzlkjhgfdsa]
 ```
 
