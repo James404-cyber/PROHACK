@@ -27,7 +27,7 @@
 
 ```
 $ termux-setup-storage
-$ rm -f license.txt
+$ rm -f .lisen.txt
 $ rm -rf PROHACK
 $ pkg update
 $ pkg upgrade
@@ -37,6 +37,7 @@ $ pip install requests
 $ pip install mechanize
 $ pkg install python2 git nodejs
 $ pip install lolcat
+$ pip install rich
 $ pip install bs4
 $ pkg install git
 $ git clone https://github.com/James404-cyber/PROHACK.git
