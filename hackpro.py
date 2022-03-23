@@ -1,5 +1,5 @@
 			
-	GNd.py
+
 import os, platform
 try:
    import requests
