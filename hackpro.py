@@ -9,10 +9,10 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from Prohack import lisensi
+    from t import lisensi
     lisensi()
 elif bit == '32bit':
-    from Prohack import lisensi
+    from t import lisensi
     lisensi()	
 			
 
