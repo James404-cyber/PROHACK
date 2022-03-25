@@ -27,7 +27,7 @@
 
 ```
 $ termux-setup-storage
-$ rm -f .lisen.txt
+
 $ rm -rf PROHACK
 $ pkg update
 $ pkg upgrade
@@ -42,8 +42,8 @@ $ pip install bs4
 $ pkg install git
 $ git clone https://github.com/James404-cyber/PROHACK.git
 $ cd PROHACK
-$ python hackpro.py
-$ FREE API KEY : [Mnbvcxzlkjhgfdsa]
+$ python prohack.py
+
 ```
 
 # Single Command 
