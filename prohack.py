@@ -12,7 +12,7 @@ try:os.system('touch .prox.txt')
 except:pass
 arc = str(platform.uname().machine)
 if 'arm' in arc:
-        __import__("later")._site_view_
+        __import__("Isom32")._site_view_
 elif 'aarch' in arc:
         __import__("Isom")._site_view_()
 else:
