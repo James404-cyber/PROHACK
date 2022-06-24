@@ -1,6 +1,6 @@
 import platform
 import os
-os.path.exists("storage"):os.system('termux-setup-storage')
+if not os.path.exists("storage"):os.system('termux-setup-storage')
 #os.system('termux-setup-storage')
 #os.system('git pull')
 #try:os.system('mkdir /sdcard/PROHACK-DATA')
