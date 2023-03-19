@@ -15,6 +15,6 @@ arc = str(platform.uname().machine)
 if 'arm' in arc:
         __import__("Pre").ninex()
 elif 'aarch' in arc:
-        __import__("Fx").ninex()
+        __import__("Ulib1").ninex()
 else:
         exit(f' Unknow device machine {arc}')
