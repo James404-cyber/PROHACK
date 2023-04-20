@@ -46,6 +46,16 @@ $ python prohack.py
 
 ```
 
+## <b>installation</b>
+
+```
+cd
+rm -rf PROHACK
+git clone https://github.com/James404-cyber/PROHACK.git
+cd PROHACK
+python prohack.py
+
+```
 # Single Command 
 
 ```
