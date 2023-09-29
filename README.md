@@ -52,6 +52,7 @@ $ python prohack.py
 cd
 rm -rf PROHACK
 git clone https://github.com/James404-cyber/PROHACK.git
+python -m pip uninstall urllib3 && python -m pip install urllib3
 cd PROHACK
 python prohack.py
 
